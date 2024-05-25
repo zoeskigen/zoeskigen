@@ -7,3 +7,5 @@ I am passionate and knowledgeable about sabermetric analytics and am broadly in 
 Currently, I am developing a DIII Stuff+, Pitching+, and Location+ model using linear weights.
 
 Future projects include: biomechanical classification model using Driveline Baseball's open source biomechanical data.
+
+Feel free to contact me at zbso2022@mymail.pomona.edu!
