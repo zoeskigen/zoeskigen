@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Zoe (they/them)
+## Hi there 👋 I'm Z (they/them)
 
 📊 I am an incoming third-year at Pomona College where I am majoring in Mathematics/Statistics and minoring in Data Science. 💻
 
